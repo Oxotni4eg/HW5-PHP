@@ -1,5 +1,5 @@
 <?php
-    header('Refresh: 5; url=http://localhost/index.php');
+    header('Refresh: 5; url=http://localhost/HW5/index.php');
     require_once('header.php');
 ?>
 

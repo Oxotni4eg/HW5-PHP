@@ -11,7 +11,7 @@ require_once('header.php');
 </div>
 <div class="container">
     <div class="form">
-        <form action="/form.php" method = "POST">
+        <form action="./form.php" method = "POST">
             <fieldset>
                 <legend>Form</legend>
                 <div><input type="text" name="name" placeholder="name" /></div>
